@@ -1,0 +1,22 @@
+@import './base.css';
+
+#app {
+  max-width: 1250px;
+  margin: 0 auto;
+  font-family: 'Proxima Nova Condensed', sans-serif;
+  color: #444444;
+}
+
+@font-face {
+  font-family: 'Proxima Nova Condensed';
+  src: url('@/assets/fonts/ProximaNovaCondensed_Regular.woff') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova Condensed';
+  src: url('@/assets/fonts/ProximaNovaCondensed_Semibold.woff') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
