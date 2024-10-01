@@ -1,14 +1,10 @@
 # vue-softline
 
-This template should help get you started developing with Vue 3 in Vite.
+Создано с помощью Vue JS3 Composition API + Vite
 
-## Recommended IDE Setup
+# https://dennew052.github.io/vue-softline/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![image](https://github.com/user-attachments/assets/ebb29fe9-4f4e-4397-9212-da98ba74234c)
 
 ## Project Setup
 
