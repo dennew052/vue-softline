@@ -7,54 +7,54 @@ import 'swiper/swiper-bundle.css'
 const items = ref([
   {
     title: 'Решения Softline',
-    background: '/bg_section-6-1.png',
+    background: '/vue-softline/bg_section-6-1.png',
     description: 'ГК Softline предлагает клиентам собственную линейку оборудования (ПК, серверы, торговое оборудование и проч.), разработку программных продуктов, облачных решений, решений в области информационной безопасности.'
   },
   {
     title: 'Кибербезопасность',
-    background: '/bg_section-6-2.png',
+    background: '/vue-softline/bg_section-6-2.png',
     description: 'Softline обладает всеми необходимыми государственными лицензиями для организации проектов по информационной безопасности и аттестации.'
   },
   {
     title: 'Импортозамещение',
-    background: '/bg_section-6-3.png',
+    background: '/vue-softline/bg_section-6-3.png',
     description: 'ГК Softline обладает широчайшим портфелем решений и услуг для импортозамещения, включая ПО и оборудование собственного производства.'
   },
   {
     title: 'Облачные решения',
-    background: '/bg_section-6-4.png',
+    background: '/vue-softline/bg_section-6-4.png',
     description: 'Softline использует современные облачные решения как российских, так и международных вендоров для масштабирования бизнеса своих клиентов. Подписки, услуги, трансформация.'
   },
   {
     title: 'Цифровая трансформация и разработка ПО',
-    background: '/bg_section-6-5.png',
+    background: '/vue-softline/bg_section-6-5.png',
     description: 'Softline использует современные технологи и новые возможности для увеличения производительности бизнеса заказчика. В штате ГК Softline - 2000+ разработчиков, которые трансформируют ПО под нужды конкретного предприятия.'
   },
   {
     title: 'Техническая поддержка Softline',
-    background: '/bg_section-6-6.png',
+    background: '/vue-softline/bg_section-6-6.png',
     description: '200+ инженеров, 24 часа в сутки, 7 дней в неделю, 12 месяцев в году, сервисное партнерство с 30+ мировыми производителями.'
   }
 ])
 
 const images = ref([
-  '/slide-1.png',
-  '/slide-2.png',
-  '/slide-3.png',
-  '/slide-4.png',
-  '/slide-5.png'
+  '/vue-softline/slide-1.png',
+  '/vue-softline/slide-2.png',
+  '/vue-softline/slide-3.png',
+  '/vue-softline/slide-4.png',
+  '/vue-softline/slide-5.png'
 ])
 
 const cities = [
-  { name: 'Все', image: '/map-1.png' },
-  { name: 'Москва', image: '/map-2.png' },
-  { name: 'Центр', image: '/map-3.png' },
-  { name: 'Северо-Запад', image: '/map-4.png' },
-  { name: 'Юг', image: '/map-5.png' },
-  { name: 'Волга', image: '/map-6.png' },
-  { name: 'Урал', image: '/map-7.png' },
-  { name: 'Сибирь', image: '/map-8.png' },
-  { name: 'Дальний Восток', image: '/map-9.png' }
+  { name: 'Все', image: '/vue-softline/map-1.png' },
+  { name: 'Москва', image: '/vue-softline/map-2.png' },
+  { name: 'Центр', image: '/vue-softline/map-3.png' },
+  { name: 'Северо-Запад', image: '/vue-softline/map-4.png' },
+  { name: 'Юг', image: '/vue-softline/map-5.png' },
+  { name: 'Волга', image: '/vue-softline/map-6.png' },
+  { name: 'Урал', image: '/vue-softline/map-7.png' },
+  { name: 'Сибирь', image: '/vue-softline/map-8.png' },
+  { name: 'Дальний Восток', image: '/vue-softline/map-9.png' }
 ]
 
 const selectCity = (city) => {
